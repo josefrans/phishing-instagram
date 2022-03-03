@@ -1,6 +1,4 @@
-# phishing-instagram
-phishing-instagram
-
+# cst_phishing-instagram
 Página de phishing con fines educativos de Instagram
 
 NO SOY RESPONSABLE DE LO QUE HAGAS CON ESTE RECURSO 
